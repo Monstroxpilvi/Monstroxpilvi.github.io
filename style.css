@@ -1,0 +1,75 @@
+body {
+    background-color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: red;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px 26px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(165, 3, 3);
+}
+
+.nappi {
+    float: right;
+}
+
+.nappi a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px 26px;
+    text-decoration: none;
+}
+
+.nappi a:hover {
+    background-color: rgb(165, 3, 3);
+}
+
+h1 {
+    font-size: 5rem;
+    font-family: sans-serif;
+    color: red;
+    text-align: center;
+}
+
+p {
+    font-size: 2rem;
+    font-family: sans-serif;
+    color: red;
+    text-align: center;
+}
+
+
+
+.android {
+    height: auto;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.onion {
+    height: auto;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
